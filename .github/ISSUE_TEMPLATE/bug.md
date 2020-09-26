@@ -11,7 +11,7 @@ assignees: ''
 Please read this!
 
 Before opening a new issue, please verify the issue isn't a duplicate.
-Do a basic search for relevant keywords while filtering by the "Issue::Bug" label.
+Do a basic search for relevant keywords while filtering by the "bug" label.
 If it is found to be a duplicate, it will marked as a duplicate and closed.
 
 Please remove any of the optional sections from the issue that you do not
