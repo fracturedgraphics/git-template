@@ -1,6 +1,6 @@
 ---
-name: Default
-about: Default template
+name: Default Template
+about: When no template fits your request
 title: ''
 labels: question
 assignees: ''
