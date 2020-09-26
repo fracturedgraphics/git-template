@@ -1,6 +1,6 @@
 ---
 name: Maintenance
-about: Repository upkeep task
+about: Repository upkeep
 title: ''
 labels: maintenance
 assignees: ''
